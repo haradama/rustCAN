@@ -1,0 +1,6 @@
+[package]
+name = "rustCAN"
+version = "0.1.0"
+authors = ["haradama <harada@sfc.wide.ad.jp>"]
+
+[dependencies]
